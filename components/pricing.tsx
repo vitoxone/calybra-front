@@ -15,7 +15,7 @@ export default function Pricing() {
     {
       name: "Profesional",
       subtitle: "Más popular",
-      price: "$99",
+      price: "$29.990",
       period: "/mes",
       description: "Para profesionales y equipos",
       features: [
