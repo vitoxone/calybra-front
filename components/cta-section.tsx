@@ -26,7 +26,7 @@ export default function CTASection() {
               </p>
             </div>
 
-            <div className="flex flex-col sm:flex-row gap-4 justify-center pt-4">
+            {/* <div className="flex flex-col sm:flex-row gap-4 justify-center pt-4">
               <Button
                 size="lg"
                 className="bg-white text-primary hover:bg-white/90 shadow-xl hover:shadow-2xl transition-all group"
@@ -41,7 +41,7 @@ export default function CTASection() {
               >
                 Agendar demo
               </Button>
-            </div>
+            </div> */}
 
             <p className="text-sm text-primary-foreground/70">
               Sin tarjeta de crédito requerida • Cancela cuando quieras • Soporte en español

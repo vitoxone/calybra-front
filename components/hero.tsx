@@ -57,7 +57,7 @@ export default function Hero() {
             </div>
 
             {/* CTA Buttons */}
-            <div className="flex flex-col sm:flex-row gap-4 pt-4">
+            {/* <div className="flex flex-col sm:flex-row gap-4 pt-4">
               <Button
                 size="lg"
                 className="bg-primary hover:bg-primary/90 text-primary-foreground shadow-lg hover:shadow-xl transition-all"
@@ -67,7 +67,7 @@ export default function Hero() {
               <Button size="lg" variant="outline" className="border-2 bg-transparent">
                 Ver demo
               </Button>
-            </div>
+            </div> */}
 
             {/* Trust indicators */}
             <div className="pt-6 flex flex-wrap items-center gap-6 justify-center lg:justify-start text-sm text-muted-foreground">

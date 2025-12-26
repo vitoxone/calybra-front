@@ -52,9 +52,9 @@ export default function Navbar({ onLogin }: { onLogin?: () => void }) {
           >
             Ingresar
           </Button>
-          <Button className="bg-primary hover:bg-primary/90 text-primary-foreground shadow-md hover:shadow-lg transition-all">
+          {/* <Button className="bg-primary hover:bg-primary/90 text-primary-foreground shadow-md hover:shadow-lg transition-all">
             Probar demo
-          </Button>
+          </Button> */}
 
           {/* Mobile menu button */}
           <Button variant="ghost" size="icon" className="md:hidden" onClick={() => setMobileMenuOpen(!mobileMenuOpen)}>
